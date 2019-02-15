@@ -1,0 +1,12 @@
+/*
+    scss层主要功能
+    1.view层的样式控制器，jsx骨架层的皮肤层
+    2.为view赋予animation等动画特性
+*/
+@import '../../../assets/common_mobile.scss';
+
+.hellworldpage{
+    h3{
+        font-size: Rem(20);
+    }
+}
